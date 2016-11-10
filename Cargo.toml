@@ -1,0 +1,8 @@
+[package]
+name = "tokio-fizz-buzz"
+version = "0.1.0"
+authors = ["pfried <philipsfried@gmail.com>"]
+
+[dependencies]
+tokio-core = "0.1.0"
+futures = "0.1.3"
