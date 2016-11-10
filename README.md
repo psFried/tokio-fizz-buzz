@@ -56,7 +56,7 @@ Here's where things start getting a lot more usable. Think of Tokio as something
 
 This is just the hello world example from [the tokio repository](https://github.com/tokio-rs/tokio-core/blob/master/examples/hello.rs).
 
-```
+```rust
 extern crate futures;
 extern crate tokio_core;
 
